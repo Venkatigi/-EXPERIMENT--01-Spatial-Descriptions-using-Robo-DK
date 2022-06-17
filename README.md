@@ -141,13 +141,13 @@ Prog1()
 ```
 ### COORDINATES OF THE MOVEMENTS: 
 #### Coordinate 1
-![image](https://user-images.githubusercontent.com/103049243/168084812-b3d03b22-d605-41cc-8645-2160415a7715.png)
+![image](1.png)
 #### Coordinate 2
-![image](https://user-images.githubusercontent.com/103049243/168084971-25a13ed1-431c-4022-8964-aa9631fc8b91.png)
+![image](2.png)
 #### Coordinate 3
-![image](https://user-images.githubusercontent.com/103049243/168085058-c90dbd4a-fc71-49c3-97f4-83c386d981a2.png)
+![image](3.png)
 #### Coordinate 4
-![image](https://user-images.githubusercontent.com/103049243/168085187-832e7cf8-f4bd-49c3-8c74-3b77f403938d.png)
+![image](4.png)
 
 
 
@@ -155,12 +155,12 @@ Prog1()
 ### SIMULATION RESULTS :
 
 #### MoveC
-![image](https://user-images.githubusercontent.com/103049243/168085974-85f02f1d-a877-4838-adeb-747b5027d6f8.png)
+![image](5.png)
 #### MoveL
-![image](https://user-images.githubusercontent.com/103049243/168086033-9bf0d1c8-ffb4-467b-897f-e4900532d4dc.png)
+![image](6.png)
 #### MoveL
-![image](https://user-images.githubusercontent.com/103049243/168086121-cf6d75ad-bf70-4068-a4a4-2b4a1c2695f4.png)
+![image](7.png)
 #### MoveC
-![image](https://user-images.githubusercontent.com/103049243/168086199-3bd35924-4559-4b46-8363-c1124d5f0a9c.png)
+![image](8.png)
 ## RESULTS:
 Thus, we have understand the RoboDk fir spatial domain.
