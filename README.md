@@ -1,12 +1,14 @@
 ## Ex-01-EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK
 
-### AIM: To understand the Robot DK software for spatial descriptions 
+### AIM: 
+To understand the Robot DK software for spatial descriptions 
 
-### SOFTWARE REQUIRED : ROBO DK Version 5.4
+### SOFTWARE REQUIRED :
+ROBO DK Version 5.4
 
- ## THEORY
+## THEORY
  
- ###  New project
+###  New project
 Follow these steps to create a new RoboDK project (RDK station):
 1.	Download and install RoboDK from the website: https://robodk.com/download
 2.	Double click the shortcut on the Desktop  
@@ -14,7 +16,7 @@ Follow these steps to create a new RoboDK project (RDK station):
 select File   New Station (Ctrl+N) to start a new project
 
 Multiple RoboDK projects can be open at the same time. Double clicking the Station icon   in the tree will activate and display that project.
- ### PROCEDURE :
+## PROCEDURE :
 ### Select a robot
 New robots can be added from a local drive or from the online library:
 1.	Select File  Open online library (Ctrl+Shift+O). A new nested window will appear showing the online library
@@ -101,7 +103,7 @@ In this example we used the following robot joint coordinates [0,0,200,180,0,180
 
 
 ### PROGRAM :
-```
+```python
 def Prog1():
   
   #--------------------------
@@ -160,4 +162,5 @@ Prog1()
 ![image](https://user-images.githubusercontent.com/103049243/168086121-cf6d75ad-bf70-4068-a4a4-2b4a1c2695f4.png)
 #### MoveC
 ![image](https://user-images.githubusercontent.com/103049243/168086199-3bd35924-4559-4b46-8363-c1124d5f0a9c.png)
-
+## RESULTS:
+Thus, we have understand the RoboDk fir spatial domain.
